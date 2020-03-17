@@ -1,6 +1,6 @@
 # Control Invariant Monitor 
 
-This is the user manual for the control invariant monitoring. For more information on the technical details, see the paper "Detecting Attacks Against Robotic Vehicles: A Control Invariant Approach".
+This is the user manual for the control invariant monitoring. For more information on the technical details, see the paper "Detecting Attacks Against Robotic Vehicles: A Control Invariant Approach (CCS'18)".
 
 ## Citation
 ``` 
