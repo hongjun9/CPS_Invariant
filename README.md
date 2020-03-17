@@ -4,9 +4,22 @@ This is the user manual for the control invariant monitoring. For more informati
 
 ## Citation
 ``` 
-
-@inproceedings{10.1145/3243734.3243752, author = {Choi, Hongjun and Lee, Wen-Chuan and Aafer, Yousra and Fei, Fan and Tu, Zhan and Zhang, Xiangyu and Xu, Dongyan and Deng, Xinyan}, title = {Detecting Attacks Against Robotic Vehicles: A Control Invariant Approach}, year = {2018}, isbn = {9781450356930}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, url = {https://doi.org/10.1145/3243734.3243752}, doi = {10.1145/3243734.3243752}, booktitle = {Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security}, pages = {801–816}, numpages = {16}, keywords = {cps security, robotic vehicle, control invariant, attack and detection}, location = {Toronto, Canada}, series = {CCS ’18} }
-
+@inproceedings{10.1145/3243734.3243752,
+author = {Choi, Hongjun and Lee, Wen-Chuan and Aafer, Yousra and Fei, Fan and Tu, Zhan and Zhang, Xiangyu and Xu, Dongyan and Deng, Xinyan},
+title = {Detecting Attacks Against Robotic Vehicles: A Control Invariant Approach},
+year = {2018},
+isbn = {9781450356930},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3243734.3243752},
+doi = {10.1145/3243734.3243752},
+booktitle = {Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security},
+pages = {801–816},
+numpages = {16},
+keywords = {cps security, robotic vehicle, control invariant, attack and detection},
+location = {Toronto, Canada},
+series = {CCS ’18}
+}
 ```
 
 ## Introduction
