@@ -42,7 +42,7 @@ In this tutorial, we show that how to extract the invariants with Matlab System 
 
 The provided VM image (id: apmvm / password: apm) includes all the programs and the related packages to test invariant monitoring, expect Matlab tools. For System Identification, Matlab is required to be installed separately from the VM image on your host machine. 
 
-VM image are available: http://bit.ly/3aVzVeq
+VM image are available: https://bit.ly/3o83GQD
 
 
 ## Building Control Invariant Model
